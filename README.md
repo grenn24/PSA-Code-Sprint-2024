@@ -7,3 +7,10 @@ As a leading global port operator and supply chain solutions provider, PSA recog
 We invite participants to develop an innovative data and AI-driven solution that optimizes port resilience and efficiency across our global network.  
 
 The aim is to reinforce PSA's position as a resilient and reliable partner at multiple nodes in global supply chains to create a Node-to-Network effect. 
+
+## Our Approach
+
+- Use machine learning quantify operational risk based on existing factors (e.g. weather conditions, geopolitical events)
+- Weigh the risk involved in each route using real-time data
+- Make optimised routing decisions
+- Provide a visual interface to evaluate different route options
